@@ -1,0 +1,4 @@
+networkelementname;sourcename;cleared;clearedtime;perceivedseverity;subnetworkname;count;receivedtime;lastreceivedtime;duration;specificproblem;sequencenumber;accessid
+SFRA_OLT_5;0/3/7/65;true;2024-10-18 17:58:53;Warning;SAN FRANCISCO LAS CONDES;1;2024-10-17 21:28:50;2024-10-17T21:28:50.000Z;0 days 20:30:03;The dying-gasp of GPON ONTi (DGi) is generated;438773685;02-1-33F5VLLR
+CHIL_OLT_15;0/3/4/73;true;2024-10-18 08:38:38;Warning;CHILOE;1;2024-10-17 21:27:46;2024-10-17T21:27:46.000Z;0 days 11:10:52;The dying-gasp of GPON ONTi (DGi) is generated;438773294;02-1-33UCLH5I
+CHOR_OLT_3;1/1/6/66;true;2024-10-18 17:59:54;Warning;CHORRILLOS;1;2024-10-17 21:25:34;2024-10-17T21:25:34.000Z;0 days 20:34:20;Dying Gasp;438772373;02-1-34JWQYB6
